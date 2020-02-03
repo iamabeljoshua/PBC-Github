@@ -138,7 +138,9 @@ print("Binary gap is: ", binaryGap)
 '''
 
 If you don't understand the solution to the third exercise, don't worry. You will, if you keep learning
-and keep exploring. If you've come this far and you're living in the year 2020 and you're not a member of
+and keep exploring. 
+
+If you've come this far and you're living in the year 2020 and you're not a member of
 Python Book Club, be sure to DM me on twitter (https://twitter.com/iamabeljoshua) and I will send you an invitation link
 to our group where you'll find super-friendly python coders learning and sharing ideas daily. 
 
