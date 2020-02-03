@@ -66,8 +66,6 @@ If you don't know what looping is about, I advice you go give that a read.
 
 '''
 
-sentence = "hello world! 123"
-
 sentence = input("Hi, go ahead and give me an input: ") #capture input from the user
 
 '''
