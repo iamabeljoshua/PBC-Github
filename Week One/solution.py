@@ -102,7 +102,7 @@ for the full explanation of this question.
 
 
 This exercise is pretty tricky but simple to solve. First thing we have to do is to understand the question, the second is
-to come up with a solution. If you like, you can write down the psuedocode of your solution before implementing it.
+to come up with a solution. If you like, you can write down the pseudocode of your solution before implementing it.
 
 1. Get number from the user and convert to binary
 
